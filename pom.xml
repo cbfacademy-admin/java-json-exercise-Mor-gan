@@ -56,6 +56,12 @@ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
             <artifactId>gson</artifactId>
             <version>2.10.1</version>
         </dependency> 
+    
+      <dependency>
+        <groupId>com.fasterxml.jackson.core</groupId>
+        <artifactId>jackson-databind</artifactId>
+        <version>2.10.0.pr1</version>
+      </dependency>
     </dependencies>
     
     <build>
